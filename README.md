@@ -1,5 +1,3 @@
-## Hi there, my name is Patrick!
-
 <h1>Hi, I'm Patrick, an <a href="https://www.linkedin.com/in/patrick-shahade-b3a137147/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
